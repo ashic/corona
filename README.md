@@ -51,3 +51,25 @@ And to round of the confirmed cases, we have a log chart without China.
 ![Confirmed Infections Log](charts/infections-since-breakout-log-no-china.png)
 
 I think the second chart above is quite important. It clearly shows that even though we broke out at similar times, the UK is right at the start of her exponential curve. Looking at the log chart, we can see a similar steepness to Italy. We're growing exponentially, but at a rate less than Italy. That does not mean we won't hit numbers like Italy. In all likelihood, we will have to deal with those heights eventually. We're not doing "better" to the point where we won't see that level of increase. Judging by how quickly this thing can spread, it's a matter of when. 
+
+## Deaths since Breakout
+
+Looking at the total number of deaths since the first death in each country, we get the following.
+
+![Deaths](charts/deaths-since-breakout.png) 
+
+Again, China dominates the numbers, but the sharp incline of Italy and Spain is quite scary. Removing China gives us a better view.
+
+![Deaths No China](charts/deaths-since-breakout-no-china.png) 
+
+This shows how much further Italy is to the rest, but also the fact that Spain in its early breakout is fairing worse than Italy did at the same time. 
+
+On a log scale, we have this. 
+
+![Deaths Log](charts/deaths-since-breakout-log.png) 
+
+And without China: 
+
+![Deaths Log No China](charts/deaths-since-breakout-log.png) 
+
+As we can see, in terms of deaths, the numbers are still quite low for most countries. Sadly, this will likely increase over the coming days. 
