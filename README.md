@@ -24,18 +24,20 @@ Different countries had their break outs at different times. This makes it incre
 
 ## Infection Numbers since Breakout
 
-<div>
 ![Confirmed Infections](charts/infections-since-breakout.png) 
-</div>
-foo bar
 
-<p>This chart is difficult to read. It also suffers from the problem that our data source starts on January 22, 2020. On that date, China already had 548 confirmed cases. Even with this chart, we see that cases in Italy and Spain are rising rapidly. Italy crossed 500 cases 7 days into her breakout. As such, shifting China's curve 7 days to the right would give a more accurate depiction. Even with that, we see that Italy started off better, but now is following a very similar exponential path. Taking China out of the picture gives us a clearer view of the others.
-</p>
-<div>
+This chart is difficult to read. It also suffers from the problem that our data source starts on January 22, 2020. On that date, China already had 548 confirmed cases. Even with this chart, we see that cases in Italy and Spain are rising rapidly. Italy crossed 500 cases 7 days into her breakout. As such, shifting China's curve 7 days to the right would give a more accurate depiction. Even with that, we see that Italy started off better, but now is following a very similar exponential path. Taking China out of the picture gives us a clearer view of the others.
+
 ![Confirmed Infections No China](charts/infections-since-breakout-no-china.png) 
-</div>
-<p>Speaking of exponentials, a good approach to visualise comparison in exponential growth is on a logarithmic scale. For the unitiated, this means were comparing orders of magnitude, rather than absolute numbers. Something that grows exponentially on a normal scale may be linear of a logarithmic scale. 
-</p>
-<div>
+
+Speaking of exponentials, a good approach to visualise comparison in exponential growth is on a logarithmic scale. For the unitiated, this means were comparing orders of magnitude, rather than absolute numbers. Something that grows exponentially on a normal scale may be linear of a logarithmic scale. 
+
 ![Confirmed Infections Log](charts/infections-since-breakout-log.png)
-</div>
+
+On this scale, we can see that China's numbers have hit inflection (i.e. the exponential part of the logistic may be over). However, Italy and Spain's steep progression is noteworthy. The UK's numbers are considerably lower than the others, but the angle of ascent cannot be ignored. Vietnam with it's outstanding preparation since SARS stands out. 
+
+And to round of the confirmed cases, we have a log chart without China.
+
+![Confirmed Infections Log](charts/infections-since-breakout-log-no-china.png)
+
+I think the second chart above is quite important. It clearly shows that even though we broke out at similar times, the UK is right at the start of her exponential curve. Looking at the log chart, we can see a similar steepness to Italy. We're growing exponentially, but at a rate less than Italy. That does not mean we won't hit numbers like Italy. In all likelihood, we will have to deal with those heights eventually. We're not doing "better" to the point where we won't see that level of increase. Judging by how quickly this thing can spread, it's a matter of when. 
