@@ -73,3 +73,12 @@ And without China:
 ![Deaths Log No China](charts/deaths-since-breakout-log.png) 
 
 As we can see, in terms of deaths, the numbers are still quite low for most countries. Sadly, this will likely increase over the coming days. 
+
+## Increase Rates
+
+Another thing worth looking at is the day on day increase rates of infections and deaths. Since the number can increase or decrease on any particular day, we use smoothing to get a better picture of the curve. The increase rates are outlined here:
+
+![Increase Infections](charts/infection-increases.png) 
+
+![Increase Deaths](charts/death-increases.png) 
+
