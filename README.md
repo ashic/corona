@@ -1,4 +1,12 @@
-@import "{{ site.theme }}";
+<style type="text/css">
+  p {
+    text-align: justify
+  }
+  
+  img {
+    width: 100%
+  }
+</style>
 
 # COVID-19 Analysis
 Analysis of corona virus infections and deaths based on data from https://github.com/CSSEGISandData/COVID-19 .
