@@ -36,6 +36,8 @@ Different countries had their break outs at different times. This makes it incre
 
 We'll start off with simple counts for confirmed infections and deaths.
 
+## Current Confirmed Infections
+
 ![Current Infections](charts/confirmed-cases.png) 
 
 China skews it somewhat, so let's look at it without China.
@@ -47,8 +49,13 @@ Since some countries have exponentially larger counts, let's look at the data on
 ![Current Infections Log](charts/confirmed-cases-log.png) 
 
 
-## Current Confirmed Infections
+## Current Deaths
 
+![Current Deaths](charts/deaths.png) 
+
+Italy has now surpassed China in terms of deaths. Since the two are an order of maginitude higher compared to the rest, we'll look at the log scale.
+
+![Current Deaths Log](charts/deaths-log.png) 
 
 
 ## Infection Numbers since Breakout
