@@ -34,6 +34,23 @@ Different countries had their break outs at different times. This makes it incre
 
 # Findings
 
+We'll start off with simple counts for confirmed infections and deaths.
+
+![Current Infections](charts/confirmed-cases.png) 
+
+China skews it somewhat, so let's look at it without China.
+
+![Current Infections No China](charts/confirmed-cases-no-china.png) 
+
+Since some countries have exponentially larger counts, let's look at the data on a logarithmic scale. This helps us compare numbers across countries in terms of orders of maginiture.
+
+![Current Infections Log](charts/confirmed-cases-log.png) 
+
+
+## Current Confirmed Infections
+
+
+
 ## Infection Numbers since Breakout
 
 ![Confirmed Infections](charts/infections-since-breakout.png) 
