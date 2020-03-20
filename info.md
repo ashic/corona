@@ -1,4 +1,4 @@
-
+<style type="text/css"> p { text-align: justify } img { width: 100% } </style>
 # Discussion 
 
 ### BoJo and Cummings are killing us coz eugenics
